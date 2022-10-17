@@ -1,0 +1,39 @@
+.menu{
+
+    background-color: bisque ;
+    height: 60 px;
+ 
+}
+.logo{
+
+    background-color: aqua ;
+    height: 60 px;
+
+}
+
+.h1{
+
+    
+        position: absolute;
+        left: 50px;
+        width: 50px;
+        height: 60px;
+      
+      
+}
+
+.h6{   
+position: absolute;
+left: 50px;
+width: 20px;
+height: 20px;
+}
+ .img1{
+  
+    background-image: url("img/astronomia-1-e1580089616804.jpg");
+    background-repeat: no-repeat;
+    
+ }
+ .text1{
+    background-image: url(img/astronomia-1-e1580089616804.jpg);
+ }
